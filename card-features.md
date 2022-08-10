@@ -23,7 +23,7 @@ Quick Dive:
 
 <a id="description"></a>
 
-## Description
+## Project Description
 
 Write a description of the Glo card that explains the task to your board members.  When a description is added to a card, the <i class="fa fa-align-left" aria-hidden="true"></i> icon will appear.
 

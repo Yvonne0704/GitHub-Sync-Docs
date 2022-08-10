@@ -34,7 +34,7 @@ Name your Glo board by clicking on the current board name.
 
 Within each Glo board, you can create columns that define the steps in your workflow.
 
-### Add Columns <a id="add-columns"></a>
+### Add some Columns <a id="add-columns"></a>
 
 Click <button class='button button--primary button--ui button--nolink'><span style='color:#141422;'>Add Column</span></button>, give it a name, and hit <button class='button button--success button--ui button--nolink'>Save</span></button>.
 
